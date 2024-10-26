@@ -1,0 +1,1 @@
+//player will have health, passive regen, very low at first

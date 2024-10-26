@@ -1,0 +1,1 @@
+//increased regeneration, base regen is 1% per second, max regen per second is 10% 
