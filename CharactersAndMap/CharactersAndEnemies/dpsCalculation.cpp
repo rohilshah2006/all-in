@@ -1,1 +1,1 @@
-// basic dps calculation, 
+// basic dps calculation, in corner of screen
